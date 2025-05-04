@@ -10,7 +10,7 @@ http://172.20.10.2:8080/live/151.m3u8
 #EXTINF:-1 tvg-id=154 tvg-name="Sony SAB" tvg-logo="http://172.20.10.2:8080/jtvimage/Sony_SAB.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB
 http://172.20.10.2:8080/live/154.m3u8
 #EXTINF:-1 tvg-id=155 tvg-name="Sony Ten 5 HD" tvg-logo="http://172.20.10.2:8080/jtvimage/Six_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5 HD
-http://172.20.10.2:8080/live/155.m3u8
+https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-id=162 tvg-name="Sony Ten 1 HD" tvg-logo="http://172.20.10.2:8080/jtvimage/Ten_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF:-1 tvg-id=164 tvg-name="Travelxp HD" tvg-logo="http://172.20.10.2:8080/jtvimage/Travel_XP_HD.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", Travelxp HD
@@ -72,7 +72,7 @@ http://172.20.10.2:8080/live/289.m3u8
 #EXTINF:-1 tvg-id=290 tvg-name="sonic Tamil" tvg-logo="http://172.20.10.2:8080/jtvimage/sonic_Tamil.png" tvg-language="Tamil" tvg-type="Kids" group-title="Kids", sonic Tamil
 http://172.20.10.2:8080/live/290.m3u8
 #EXTINF:-1 tvg-id=291 tvg-name="SET HD" tvg-logo="http://172.20.10.2:8080/jtvimage/Sony_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", SET HD
-http://172.20.10.2:8080/live/291.m3u8
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 tvg-id=383 tvg-name="Times NOW" tvg-logo="http://172.20.10.2:8080/jtvimage/Times_NOW.png" tvg-language="English" tvg-type="News" group-title="News", Times NOW
 http://172.20.10.2:8080/live/383.m3u8
 #EXTINF:-1 tvg-id=400 tvg-name="PM e Vidya 01" tvg-logo="http://172.20.10.2:8080/jtvimage/evidya_1.png" tvg-language="English" tvg-type="Educational" group-title="Educational", PM e Vidya 01
@@ -130,11 +130,11 @@ http://172.20.10.2:8080/live/465.m3u8
 #EXTINF:-1 tvg-id=466 tvg-name="Arihant TV" tvg-logo="http://172.20.10.2:8080/jtvimage/Arihant_TV.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Arihant TV
 http://172.20.10.2:8080/live/466.m3u8
 #EXTINF:-1 tvg-id=471 tvg-name="Sony SAB HD" tvg-logo="http://172.20.10.2:8080/jtvimage/Sony_SAB_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony SAB HD
-http://172.20.10.2:8080/live/471.m3u8
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 tvg-id=474 tvg-name="Sony Pal" tvg-logo="http://172.20.10.2:8080/jtvimage/Sony_Pal.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Sony Pal
 http://172.20.10.2:8080/live/474.m3u8
 #EXTINF:-1 tvg-id=476 tvg-name="Sony Max HD" tvg-logo="http://172.20.10.2:8080/jtvimage/Sony_Max_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Sony Max HD
-http://172.20.10.2:8080/live/476.m3u8
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #EXTINF:-1 tvg-id=477 tvg-name="MN+ HD" tvg-logo="http://172.20.10.2:8080/jtvimage/MNPLUS.png" tvg-language="English" tvg-type="Movies" group-title="Movies", MN+ HD
 http://172.20.10.2:8080/live/477.m3u8
 #EXTINF:-1 tvg-id=479 tvg-name="TLC HD" tvg-logo="http://172.20.10.2:8080/jtvimage/TLC_HD_World.png" tvg-language="English" tvg-type="Lifestyle" group-title="Lifestyle", TLC HD
@@ -200,9 +200,9 @@ http://172.20.10.2:8080/live/520.m3u8
 #EXTINF:-1 tvg-id=522 tvg-name="Sansad TV" tvg-logo="http://172.20.10.2:8080/jtvimage/Loksabha_TV.png" tvg-language="Hindi" tvg-type="News" group-title="News", Sansad TV
 http://172.20.10.2:8080/live/522.m3u8
 #EXTINF:-1 tvg-id=523 tvg-name="Ten 2" tvg-logo="http://172.20.10.2:8080/jtvimage/Ten_2.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Ten 2
-http://172.20.10.2:8080/live/523.m3u8
+https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 #EXTINF:-1 tvg-id=524 tvg-name="Sony Ten 3 Hindi" tvg-logo="http://172.20.10.2:8080/jtvimage/Ten_3.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 Hindi
-http://172.20.10.2:8080/live/524.m3u8
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1 tvg-id=525 tvg-name="Sony Ten 5" tvg-logo="http://172.20.10.2:8080/jtvimage/Sony_Six_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 5
 http://172.20.10.2:8080/live/525.m3u8
 #EXTINF:-1 tvg-id=527 tvg-name="Investigation Discovery" tvg-logo="http://172.20.10.2:8080/jtvimage/ID.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Investigation Discovery
@@ -714,7 +714,7 @@ http://172.20.10.2:8080/live/889.m3u8
 #EXTINF:-1 tvg-id=891 tvg-name="Sony Ten 2 HD" tvg-logo="http://172.20.10.2:8080/jtvimage/Ten2_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 2 HD
 http://172.20.10.2:8080/live/891.m3u8
 #EXTINF:-1 tvg-id=892 tvg-name="Sony Ten 3 HD Hindi" tvg-logo="http://172.20.10.2:8080/jtvimage/Ten3_HD.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Sony Ten 3 HD Hindi
-http://172.20.10.2:8080/live/892.m3u8
+https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #EXTINF:-1 tvg-id=894 tvg-name="KTV HD" tvg-logo="http://172.20.10.2:8080/jtvimage/KTV_HD.png" tvg-language="Tamil" tvg-type="Movies" group-title="Movies", KTV HD
 http://172.20.10.2:8080/live/894.m3u8
 #EXTINF:-1 tvg-id=895 tvg-name="Sun Music HD" tvg-logo="http://172.20.10.2:8080/jtvimage/Sun_Music_HD.png" tvg-language="Tamil" tvg-type="Music" group-title="Music", Sun Music HD
@@ -922,7 +922,7 @@ http://172.20.10.2:8080/live/1103.m3u8
 #EXTINF:-1 tvg-id=1145 tvg-name="MTV HD Plus" tvg-logo="http://172.20.10.2:8080/jtvimage/MTV_HD_Plus.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", MTV HD Plus
 http://172.20.10.2:8080/live/1145.m3u8
 #EXTINF:-1 tvg-id=1146 tvg-name="Sony Marathi SD" tvg-logo="http://172.20.10.2:8080/jtvimage/Sony_Marathi_SD.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Entertainment", Sony Marathi SD
-http://172.20.10.2:8080/live/1146.m3u8
+https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
 #EXTINF:-1 tvg-id=1148 tvg-name="TEST8 HD" tvg-logo="http://172.20.10.2:8080/jtvimage/TEST8_HD.png" tvg-language="English" tvg-type="Shopping" group-title="Shopping", TEST8 HD
 http://172.20.10.2:8080/live/1148.m3u8
 #EXTINF:-1 tvg-id=1151 tvg-name="Rangamanch" tvg-logo="http://172.20.10.2:8080/jtvimage/Rangamanch.png" tvg-language="Marathi" tvg-type="Entertainment" group-title="Entertainment", Rangamanch
@@ -1381,8 +1381,8 @@ http://172.20.10.2:8080/live/1763.m3u8
 http://172.20.10.2:8080/live/1764.m3u8
 #EXTINF:-1 tvg-id=1771 tvg-name="Express News" tvg-logo="http://172.20.10.2:8080/jtvimage/Express_News.png" tvg-language="Bengali" tvg-type="News" group-title="News", Express News
 http://172.20.10.2:8080/live/1771.m3u8
-#EXTINF:-1 tvg-id=1772 tvg-name="Sony Ten 4 HD Tamil" tvg-logo="http://172.20.10.2:8080/jtvimage/Ten_4_HD_Tamil.png" tvg-language="Tamil" tvg-type="Sports" group-title="Sports", Sony Ten 4 HD Tamil
-http://172.20.10.2:8080/live/1772.m3u8
+#EXTINF:-1 tvg-id=1772 tvg-name="Sony Ten 4 HD" tvg-logo="http://172.20.10.2:8080/jtvimage/Ten_4_HD_Tamil.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Sony Ten 4 HD Tamil
+https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id=1773 tvg-name="Sony Ten 4 HD Telugu" tvg-logo="http://172.20.10.2:8080/jtvimage/Ten_4_HD_Telugu.png" tvg-language="Telugu" tvg-type="Sports" group-title="Sports", Sony Ten 4 HD Telugu
 http://172.20.10.2:8080/live/1773.m3u8
 #EXTINF:-1 tvg-id=1774 tvg-name="Sony Ten 4 Tamil" tvg-logo="http://172.20.10.2:8080/jtvimage/Ten_4_Tamil.png" tvg-language="Tamil" tvg-type="Sports" group-title="Sports", Sony Ten 4 Tamil
